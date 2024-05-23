@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894002460081",
+    "project_id": "sign-in-with-goggle",
+    "storage_bucket": "sign-in-with-goggle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894002460081:android:01ebd8e2d166e533e5b990",
+        "android_client_info": {
+          "package_name": "com.example.signinwithgoggle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894002460081-h28dip1eggq5tgf038apqbh9s277s5nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signinwithgoggle",
+            "certificate_hash": "fb671d0a59249d011d0eba221d1efdfb9c8ccf5d"
+          }
+        },
+        {
+          "client_id": "894002460081-7l67befs7i7847fnlghq9ffe1rodj8h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGdrDyNCfWuXym3SjnMVkM9pCSqxLeFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894002460081-7l67befs7i7847fnlghq9ffe1rodj8h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
